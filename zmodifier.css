@@ -1,0 +1,59 @@
+/**
+ * @name Discord Source Code by Zappters 
+ * @version 1.0.0
+ * @author Tadeu Agostini
+ * @authorLink https://www.linkedin.com/in/tadeuagostini
+*/
+
+html, body{
+  font-size: 0.8rem!important;
+}
+
+.modeSelected-346R90 .content-1x5b-n {
+  background-color: var(--zappts-accent-ui);
+}
+
+.wrapper-2jXpOf .content-1x5b-n:hover {
+  background-color: var(--zappts-accent-ui-hover);
+  color:#151515FF;
+
+}
+.channelName-2YrOjO:hover {
+  color:#151515FF;
+}
+.channelName-2YrOjO{
+  font-size: 1.2rem;
+}
+.channelName-2YrOjO{
+  font-size: 1.2rem!important;
+}
+
+.modeSelected-346R90 .content-1x5b-n:hover {
+  background-color: var(--zappts-accent-ui);
+}
+
+.wordmarkWindows-1v0lYD::before{
+  content: url(https://i.imgur.com/bEi0r8P.png);
+  position: absolute;
+  transform: translate(92%,1px);
+}
+/*
+.wrapper-3t9DeA{
+ -webkit-box-shadow: 4px 1px 9px 3px rgba(0,0,0,0.68); 
+}
+
+.wrapper-3t9DeA svg rect {
+  clip-path:  polygon(93% 1%, 86% 10%, 100% 58%, 80% 79%, 67% 47%, 22% 99%, 1% 76%, 36% 35%, 0 38%, 0 11%);
+}*/
+
+.mentioned-xhSam7, .mentioned-xhSam7:hover{
+  background-color: hsla(16, 100%, 47%, 0.123)!important;
+}
+.background-1QDuV2{
+  background-color: rgba(1, 61, 88, 0.4)!important;
+
+}
+
+.embedFull-2tM8--,.reaction-1hd86g {
+  background-color: rgba(1, 61, 88, 0.4)!important;
+}
