@@ -5,9 +5,9 @@
  * @authorLink https://www.linkedin.com/in/tadeuagostini
  * @description This file was developed on top of a PlusInsta template that can be found at this link https://plusinsta.xyz.
 */
-@import url(https://github.com/TadeuA/Discord-Theme-Zappts/blob/main/zplugins.css);
-@import url(https://github.com/TadeuA/Discord-Theme-Zappts/blob/main/zassets.css);
-@import url(https://github.com/TadeuA/Discord-Theme-Zappts/blob/main/zmodifier.css);
+@import url(https://raw.githubusercontent.com/TadeuA/Discord-Theme-Zappts/main/zplugins.css);
+@import url(https://raw.githubusercontent.com/TadeuA/Discord-Theme-Zappts/main/zassets.css);
+@import url(https://raw.githubusercontent.com/TadeuA/Discord-Theme-Zappts/main/zmodifier.css);
 
 /* Main fonts */
 @import url(https://fonts.googleapis.com/css?family=Poppins:400,700|Roboto:400,700|Righteous);
